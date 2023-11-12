@@ -1,0 +1,501 @@
+AuthorID,AuthorName,BirthDate,Country
+001,Catherine Benshoof,1992-05-29,Lebanon
+002,Eugene Hernandez,1981-11-10,Mexico
+003,Allan Williams,1974-03-29,Argentina
+004,Christine Smith,1973-09-28,Philippines
+005,Bertha Garcia,1972-10-19,Mexico
+006,Peter Taylor,1958-03-07,Sweden
+007,Jeffrey Brus,1991-12-11,Qatar
+008,Renee Halladay,1961-08-03,Greece
+009,Monika Michell,1950-03-25,Indonesia
+010,Marilyn Donahue,1958-01-29,United Arab Emirates
+011,Lena Devine,1971-10-08,Sri Lanka
+012,Cameron Geoghegan,1990-12-04,Iraq
+013,Ingrid Hartman,1953-12-29,Saudi Arabia
+014,Latrice Kreiman,1998-03-06,Sri Lanka
+015,Paul Pusey,1955-10-09,Iran
+016,Corey Mckeehan,1959-09-03,Vietnam
+017,Kimberly Zito,1983-08-22,South Korea
+018,John Blackwell,1986-06-03,China
+019,Joe Glick,1961-02-15,South Africa
+020,Clyde Johnson,1963-09-25,Qatar
+021,Maryrose Colvin,1961-05-24,Jordan
+022,Nancy Minor,1955-02-11,Pakistan
+023,Angelo Sanchez,1969-08-02,Netherlands
+024,Donald Lopez,1959-08-03,Vietnam
+025,Anna Marren,1987-12-06,Italy
+026,Maggie Carsey,1999-02-23,Denmark
+027,Delores Hatcher,1956-02-12,Qatar
+028,Trisha Ashbaugh,1967-07-13,Japan
+029,Michael Talley,1976-04-20,Indonesia
+030,Matthew Robinson,2000-09-28,Brazil
+031,Jodie Smith,1970-04-15,Netherlands
+032,June Newman,1958-02-26,Malaysia
+033,Wayne Oldroyd,1974-06-17,Spain
+034,David Stancill,1969-09-03,Italy
+035,Ruth Starks,1966-06-15,Thailand
+036,Daniel Sanchez,1955-12-19,Kenya
+037,Wendell Dorn,1978-04-10,Israel
+038,Lottie Robinson,1991-09-28,Greece
+039,Elizabeth Franklin,1998-06-29,China
+040,Amanda Norton,1999-01-04,Denmark
+041,Olive Joyce,1970-03-22,Saudi Arabia
+042,Roger Lund,1958-04-15,Vietnam
+043,Danielle Bartolomeo,1964-12-21,Denmark
+044,James Hernandez,1953-12-22,Iran
+045,Rita Epperson,1985-08-30,Philippines
+046,Annie Fuller,1975-03-21,Oman
+047,Randal Thorpe,1980-08-17,Oman
+048,Alexis Ballard,1972-06-07,Netherlands
+049,Jon Torres,1950-01-11,India
+050,Beverly Atkinson,1978-02-08,Oman
+051,Rickey Martin,1973-12-29,China
+052,Ralph Fierst,1964-02-08,Japan
+053,Danny Lewis,1973-02-10,Norway
+054,Rebecca Lipman,1952-06-11,New Zealand
+055,Tamara Gomez,1964-06-26,Kenya
+056,James Riley,1985-01-27,Iraq
+057,Robert Wilson,1952-07-22,Sri Lanka
+058,Michelle Thomas,1960-11-25,Saudi Arabia
+059,Geoffrey Merrill,1983-05-02,Qatar
+060,Jennifer Kittell,1962-08-15,Bahrain
+061,Sharon Santucci,1978-06-26,India
+062,Michael Cornelius,1983-07-26,Sweden
+063,Dianne Wince,1987-09-02,France
+064,Kristine Bess,1990-08-21,Russia
+065,Jonathan Crandall,1983-09-30,Norway
+066,Wilbur Mitchell,1985-11-03,Thailand
+067,Betty Sanchez,1985-06-26,Israel
+068,Ciera Giannotti,1981-12-19,Brazil
+069,Vernon Velez,1976-02-27,Indonesia
+070,Frances Girard,1988-03-21,Philippines
+071,Nicole Lamothe,1958-07-06,Singapore
+072,Kathleen Butler,1952-08-22,Turkey
+073,Kirk Contreras,1973-01-01,Japan
+074,Jill Jones,1961-10-10,Germany
+075,William Estrada,1992-11-17,India
+076,Susan Peach,1952-06-18,Nigeria
+077,Edward Cope,1984-06-07,Norway
+078,Betty Bryant,1982-03-20,Nigeria
+079,Robert Brown,1983-02-13,Jordan
+080,Patricia Faison,1969-08-18,Oman
+081,Darren Chambers,1968-05-14,Mexico
+082,Roy Garza,1955-11-01,Nigeria
+083,Rosemarie Gonzales,1963-06-24,Argentina
+084,Terrence Linn,1966-08-13,Qatar
+085,Juanita Therrien,1953-11-07,Egypt
+086,Bobby Carey,1957-04-07,Singapore
+087,Stanley Russell,1974-10-23,United Arab Emirates
+088,Sandi George,1996-05-03,India
+089,Harold Crutcher,1991-06-01,Greece
+090,Lora Vacheresse,1965-03-30,Mexico
+091,Joseph Sandusky,1951-06-04,Oman
+092,Dorthy Mcgraw,1956-09-27,India
+093,Cynthia Cornelius,1958-02-19,Iraq
+094,Jennifer Moore,1971-11-27,Sri Lanka
+095,Elisa Peterson,1955-07-30,Nigeria
+096,Irene Rhoads,1986-10-09,Thailand
+097,William Hoffman,1991-07-24,Finland
+098,Michael Carson,1980-01-05,Pakistan
+099,Duane Reed,1975-04-23,Canada
+100,Heather Brown,1979-02-04,Thailand
+101,Lisa Falcon,1971-01-26,Portugal
+102,Helen Cole,1962-10-04,Iraq
+103,Amy Moore,1952-11-26,Saudi Arabia
+104,Judith Brown,1962-09-23,Lebanon
+105,Bonita Perry,1977-12-13,Israel
+106,John Hague,1967-12-27,South Korea
+107,Louis Mcnulty,1960-09-06,Qatar
+108,David Herrod,1996-12-10,Portugal
+109,Michelle Leblanc,1986-05-27,Iraq
+110,Sandra Poole,1986-11-02,Germany
+111,Rosa Schell,1977-06-25,UK
+112,Rebecca Darden,1977-06-18,UK
+113,Garth Ronson,1991-05-18,Japan
+114,Cameron Allen,1952-05-21,Lebanon
+115,Marcia Sergi,1982-09-23,Turkey
+116,Rose Chevrette,1995-08-02,Oman
+117,Cheryl Collins,1975-09-27,Thailand
+118,Frank Long,1992-12-03,Finland
+119,Angelica Woolfolk,1994-02-21,Iraq
+120,Benjamin Francis,1995-02-10,Malaysia
+121,Rolf Washington,1973-08-01,Sweden
+122,Mark Madison,1986-02-21,Israel
+123,Jayne Schiller,1966-12-17,Pakistan
+124,Tina Swindell,1973-01-20,Thailand
+125,Jerold Lee,1981-12-14,Thailand
+126,George Uttech,1963-09-26,Sweden
+127,Arthur Lehmann,1977-05-15,France
+128,Juan Rotunda,1991-09-05,South Africa
+129,Sylvia Robinson,1996-12-24,Spain
+130,John Brown,1960-10-06,Lebanon
+131,Junior Lewis,1970-11-24,Kenya
+132,Donald Francis,1969-05-12,New Zealand
+133,Sharon Buchanan,1961-02-18,Jordan
+134,George Carrithers,1957-06-04,Malaysia
+135,Diane Jones,1974-07-08,United Arab Emirates
+136,Joshua Parker,1967-12-04,Japan
+137,Gary Cox,1958-01-02,Germany
+138,George Day,1971-11-14,Iraq
+139,Allison Hagan,1958-06-09,Japan
+140,Deborah Lamon,1960-03-23,Vietnam
+141,Matthew Asuncion,1992-07-08,Vietnam
+142,Fredrick Mcwhorter,1973-02-28,Saudi Arabia
+143,George Bowen,1981-02-26,France
+144,David Clark,1953-09-25,Bangladesh
+145,Manuela Reyes,1983-01-08,China
+146,Jose Raap,2000-09-12,Canada
+147,Helen Cabading,1969-02-06,Vietnam
+148,Tim Garrett,1992-02-20,Canada
+149,Jerry Matchett,1957-02-05,Spain
+150,Stacy Dennard,1991-06-13,Turkey
+151,James Young,1985-06-27,Nigeria
+152,Sonja Robinson,1976-02-23,USA
+153,Jennifer Tom,1951-06-17,Kuwait
+154,Antonio Wilson,1978-03-04,Australia
+155,Elmer Griffin,1980-10-21,USA
+156,Barbara Cadena,1993-03-05,Kenya
+157,Joy Sapp,1957-08-31,France
+158,Cherise Stutzman,1992-08-09,Sri Lanka
+159,Crystal Hawkins,1989-08-01,Jordan
+160,James Gordo,1996-07-27,Indonesia
+161,Robert Thorton,1961-09-08,Lebanon
+162,Stephen Spencer,1997-01-12,Sri Lanka
+163,Willie Mcneill,1994-06-17,Nigeria
+164,Amos Fitzgerald,1955-03-06,Jordan
+165,Larry Roberts,1988-07-16,Malaysia
+166,Alane Johnson,1963-07-10,Bahrain
+167,Mattie Lewis,1951-03-14,Russia
+168,Nicole Elam,1951-04-06,Denmark
+169,Matthew Mccool,1997-09-20,Australia
+170,Guadalupe Krohn,1985-11-26,Bangladesh
+171,Dani Bruce,1964-08-07,Japan
+172,Angela Montes,1956-08-04,Sweden
+173,Sharon Roop,1956-04-02,Singapore
+174,Danny Cruz,1959-03-20,Spain
+175,Audrey Jackson,1979-01-26,Jordan
+176,Christopher Miller,1989-07-10,Egypt
+177,Lionel Pierrot,1957-09-01,New Zealand
+178,Nolan Leyrer,1994-02-04,New Zealand
+179,Arturo Chapa,1964-11-24,Lebanon
+180,Mary Killian,1954-09-16,Argentina
+181,Charles Atterberry,1989-05-29,South Korea
+182,Vivian Gonzales,1966-04-17,South Africa
+183,Jennifer Newcomb,1958-02-21,Saudi Arabia
+184,Michael Sanford,1955-11-26,Oman
+185,Pamela Ward,1968-09-02,Lebanon
+186,Domingo Williams,1975-01-27,Kenya
+187,John Harvey,1973-10-20,United Arab Emirates
+188,Luis Mitani,1995-09-16,Norway
+189,Carmen Thibodeaux,1998-05-23,Oman
+190,Shelly Weske,1953-01-18,Finland
+191,Billy Stratton,1997-03-16,Vietnam
+192,Nathan Hines,1973-04-07,Spain
+193,Son Adank,1972-06-22,Jordan
+194,Dennis Waite,1993-03-10,Portugal
+195,Leontine Mclean,1977-01-27,Russia
+196,Mark Holland,1977-06-01,Saudi Arabia
+197,Alex Long,1964-09-19,South Korea
+198,Harry Chow,1951-09-21,Indonesia
+199,Leslie Herbert,1965-12-13,India
+200,Christa Fitzpatrick,1979-03-27,Nigeria
+201,Frances Parent,1971-06-15,Argentina
+202,Patricia Ichikawa,1956-11-11,Iran
+203,Milton Larson,1975-01-13,Saudi Arabia
+204,James Caruso,1999-06-22,South Africa
+205,David Bartley,1984-05-24,Russia
+206,Miguel Moore,1964-05-13,Qatar
+207,Joseph Vicic,1998-10-01,France
+208,Mary Pruitt,1964-10-11,Italy
+209,Phil Stultz,1996-04-28,Bahrain
+210,John Norman,1993-01-01,Kenya
+211,Marian Phipps,1970-11-27,Italy
+212,Franklin Brandt,1977-11-30,Mexico
+213,Brittney Osteen,1959-04-06,India
+214,Jeffrey Parker,1994-08-08,Germany
+215,Patricia Chagoya,1995-11-03,South Africa
+216,William Clark,1990-08-02,Sweden
+217,Chi Campbell,1983-12-06,Australia
+218,James Long,1953-07-20,Kenya
+219,Luke Barnes,1976-12-23,Vietnam
+220,David Johnson,1960-09-19,New Zealand
+221,Miles Snover,1993-07-26,Norway
+222,Jon Burgess,1977-10-22,Egypt
+223,Michael Levy,1979-03-02,South Korea
+224,Wendell Lewis,1989-07-04,Malaysia
+225,Rick Jones,1957-03-01,USA
+226,Donald Morris,1951-04-14,France
+227,Paul Sitter,1950-05-23,New Zealand
+228,Jerilyn Dominguez,1971-03-11,Kenya
+229,James Armstrong,1981-10-09,Singapore
+230,Steven Braun,1979-12-05,Egypt
+231,Trista Matherne,1973-02-08,Russia
+232,Donald Wiggins,1989-11-14,Malaysia
+233,Angela Hughes,1960-02-10,Italy
+234,Glenda Fuller,1952-07-27,Thailand
+235,Rose Davila,1951-01-22,USA
+236,James Christoff,1995-01-10,Iran
+237,Esteban Miranda,1962-10-24,Germany
+238,Zachary Alvarez,1975-03-01,Russia
+239,Heather Smith,1961-01-06,Nigeria
+240,Myra Buehlman,1973-02-02,Kenya
+241,Shari Debuhr,1993-03-29,South Africa
+242,Kelly Benzi,1988-02-14,Iran
+243,Keli Overton,1963-06-25,South Korea
+244,Roseanne Bray,1986-05-30,Pakistan
+245,Louis Curren,1980-05-23,India
+246,Orlando Turner,1978-04-28,New Zealand
+247,Bertha Wilson,1978-09-08,Sweden
+248,Shanna Burriss,1997-02-13,Israel
+249,Chris Clark,1955-09-05,Kenya
+250,Bobbie Daly,1964-11-24,Australia
+251,Norman Burgin,1950-05-10,Italy
+252,Fallon Garner,1956-05-30,Norway
+253,Jane Mondino,1975-09-02,Saudi Arabia
+254,Dolly Shields,1987-03-28,Iran
+255,Chris Booker,1996-10-30,Kenya
+256,Dennis Griffin,2000-12-30,Bahrain
+257,John Nieves,1971-09-30,Brazil
+258,Linda Gonzalez,1956-05-11,Spain
+259,David Hedrick,1969-09-26,Finland
+260,Timothy Cook,1980-01-10,Sri Lanka
+261,Gail Jaynes,1982-02-28,Japan
+262,John York,1993-04-29,Kuwait
+263,Ricky Schoeffler,1973-02-12,South Africa
+264,Alice Holmes,2000-09-11,Australia
+265,James Smith,1970-06-06,Japan
+266,Kevin Rosas,1954-08-05,Sweden
+267,Cristina Hart,1992-06-09,Israel
+268,Frank Millerd,1998-12-13,Malaysia
+269,Jerry Doran,1988-06-23,Egypt
+270,Wendy Degasperis,1997-11-25,Malaysia
+271,David Birkeland,1952-04-11,Russia
+272,Temple Turner,1976-10-06,Thailand
+273,Debra Alford,1995-01-31,Greece
+274,Karla Gardner,1971-02-04,Sweden
+275,Serena Bowen,1988-04-11,Mexico
+276,Billie Kroll,1965-05-03,Philippines
+277,Sarah Flores,1950-04-15,Lebanon
+278,Patricia Moore,1972-04-09,Singapore
+279,Shonda Reeves,1972-12-12,Argentina
+280,Jacob Cooper,1957-09-19,New Zealand
+281,Shirley Trujillo,1950-11-28,Sweden
+282,Abbey Tovey,1969-01-29,Saudi Arabia
+283,Orpha Heasley,1976-01-03,Philippines
+284,Robert Kremen,1991-08-19,South Korea
+285,Danielle Orourke,2000-08-19,Bangladesh
+286,Janine Davis,1967-02-02,Brazil
+287,Mary Hayes,1971-05-30,USA
+288,Robin Solano,1967-03-08,Netherlands
+289,Mary Durbin,1968-03-10,USA
+290,Michael Lambert,1968-08-15,Mexico
+291,Miriam Gomez,2000-09-14,Denmark
+292,Jeremiah Nevin,1963-07-05,Japan
+293,Cleo Croom,1957-12-30,India
+294,Margaret Carden,1981-04-14,Iran
+295,Lina Roden,1972-04-17,Canada
+296,Charles Wade,1954-03-01,Canada
+297,Roy Melena,1974-11-21,India
+298,Luis Bannon,1967-04-25,United Arab Emirates
+299,Hannah Brown,1950-09-02,New Zealand
+300,Ethel Braun,1955-06-21,Turkey
+301,Felicia Barclay,1954-09-24,United Arab Emirates
+302,Susie Hale,1996-11-17,New Zealand
+303,Karen Cody,1995-06-15,United Arab Emirates
+304,Paul Eliott,2000-03-07,Portugal
+305,Warren Opp,1989-12-30,Japan
+306,Tiffani Robel,1950-12-27,Italy
+307,Marilyn Mcconnell,1959-08-17,Russia
+308,Misty White,1979-02-04,Greece
+309,Jessie Price,1953-06-27,South Korea
+310,Larry Blackmon,1952-07-30,Brazil
+311,Olivia Castillo,1983-12-05,Spain
+312,Christopher Brown,1972-04-22,Denmark
+313,Monica Simpson,1953-04-11,Iran
+314,Paul Henry,1960-06-28,Philippines
+315,Charlotte Rucker,1982-12-27,Nigeria
+316,Timothy Salcido,1999-11-27,Singapore
+317,Bruce Francis,1996-08-27,Netherlands
+318,Garry Walsh,1968-08-08,Mexico
+319,William Gregson,1986-01-18,Greece
+320,Henry Langerman,1952-01-08,India
+321,Angel Haider,1994-02-16,Germany
+322,Christopher Martin,1959-10-06,France
+323,Jeffery Baker,1988-09-29,Saudi Arabia
+324,Kenneth Avendano,1994-10-23,Russia
+325,Ed Cook,1962-04-03,Israel
+326,Hazel Fox,1974-01-23,Greece
+327,Michele Munoz,1980-08-10,Nigeria
+328,William Jacques,1977-08-06,Germany
+329,Roger Folts,1979-03-19,Jordan
+330,Joseph Simmons,1985-08-04,Bangladesh
+331,Audra Wyman,1982-08-23,Pakistan
+332,Tony Gonsalves,1950-08-23,Portugal
+333,Andrew Moroney,1970-12-18,Mexico
+334,Richard Parker,1973-05-01,Sri Lanka
+335,William Jackson,1975-01-27,UK
+336,James Nasuti,1992-02-26,Spain
+337,Patricia Aldridge,1964-07-17,Norway
+338,William Cornejo,1958-10-24,Singapore
+339,Joel Dacey,1957-05-15,China
+340,David Morris,1991-04-13,Indonesia
+341,Maria Wiliams,1960-02-18,Sri Lanka
+342,Alberta Nadeau,1985-08-29,Pakistan
+343,Kevin Mcneil,1990-02-09,Kuwait
+344,David Joyce,1985-08-17,Jordan
+345,Anthony Clements,1950-01-13,Oman
+346,Concepcion Sprague,1982-04-01,Thailand
+347,Michael Thompson,1986-05-13,South Africa
+348,Thomas Durham,1971-01-12,Russia
+349,June Gose,1979-06-17,Lebanon
+350,Chase Fuentez,1956-12-27,Argentina
+351,Patsy Shearer,1993-03-22,Australia
+352,Bibi Yates,2000-02-21,United Arab Emirates
+353,Alex Trujillo,1962-03-25,Bangladesh
+354,Joseph Arredondo,1994-09-23,Netherlands
+355,Louis Straight,1980-11-21,Argentina
+356,Judith Shafer,1988-08-26,Australia
+357,Myron Allen,1978-07-23,Mexico
+358,Christi Cuellar,1975-05-17,Sweden
+359,Janice Ranallo,1977-07-11,Iraq
+360,Cliff Houser,1963-11-25,Bangladesh
+361,Amber Mccallum,1952-06-15,Lebanon
+362,Jennifer Bradford,1967-02-28,Canada
+363,Marsha Medina,1968-12-01,United Arab Emirates
+364,Chad Dretzka,1971-03-24,Turkey
+365,Bruce Birdsong,1967-01-09,Australia
+366,Stacy Jordan,1989-06-26,Saudi Arabia
+367,Kenneth Brafman,1961-08-04,Philippines
+368,Ruth Hall,1965-03-13,Finland
+369,David Peck,1958-02-05,South Korea
+370,Damon Mccarthy,1968-07-26,Russia
+371,Jesse Mcclain,1975-07-14,Sweden
+372,Elizabeth Morgan,1977-12-18,Spain
+373,John Moller,1994-03-22,Spain
+374,Celestina Collins,1980-08-12,South Korea
+375,Jennifer Horton,1977-12-30,Japan
+376,Gordon Sheffield,2000-10-06,Japan
+377,Hope Johnson,1972-07-08,Saudi Arabia
+378,Linda Zinner,1983-06-06,Sri Lanka
+379,Christopher Smith,1969-09-01,Spain
+380,Elliot Williams,1967-01-19,Iraq
+381,Shirley Wengel,1955-01-25,Jordan
+382,Glynda Potter,1953-11-23,Finland
+383,Kathleen Williams,1992-10-12,Spain
+384,Ayesha Gold,1952-04-28,Nigeria
+385,Joyce Wills,1960-01-30,Japan
+386,Lillian Smiler,1984-11-19,United Arab Emirates
+387,Jessica Kibler,1968-06-29,Bangladesh
+388,Alvin Bodine,1982-11-26,Norway
+389,Curtis Herrera,1967-05-01,USA
+390,Sandra Flath,1999-04-14,France
+391,Margaret Feauto,1960-12-09,Bangladesh
+392,Julie Clifford,1983-10-08,Australia
+393,Michael Lane,1981-04-13,Japan
+394,Craig Maldonado,1965-07-09,Japan
+395,Gregory Taylor,1957-12-07,Spain
+396,Ismael Ketter,1999-11-11,Kenya
+397,James Mcintyre,1977-10-22,Oman
+398,John Carney,1958-10-26,Brazil
+399,Samuel Crossman,1992-11-29,Vietnam
+400,Edwin Fall,1962-09-04,United Arab Emirates
+401,Selma Jackson,1995-02-19,UK
+402,Larry Joseph,1955-12-23,Sri Lanka
+403,Ofelia Walker,1952-11-27,France
+404,Vanessa Mccoy,1981-02-22,South Korea
+405,Carlos Chevez,1987-01-23,South Korea
+406,Joseph Romero,1953-05-12,South Africa
+407,Belinda Ballesteros,1967-04-28,Canada
+408,Joshua Nelson,1951-07-30,Singapore
+409,Mildred Tapia,1986-12-23,Singapore
+410,Mike Merlette,1983-04-03,Saudi Arabia
+411,Andre Vollmer,1963-04-10,South Africa
+412,Mary Wright,1959-06-19,Argentina
+413,Michelle Dannels,1954-09-04,Philippines
+414,Ruth Zavala,1961-02-15,USA
+415,Kevin Scott,1991-05-11,Sweden
+416,Rayna Rush,1981-06-19,Finland
+417,Rosie Shifflett,1964-09-14,Egypt
+418,Dolores Tucker,1986-10-11,Kuwait
+419,Shirley Mccreary,1979-04-28,USA
+420,Mike Garcia,2000-07-10,Kenya
+421,Sharon Jeanbaptiste,1962-04-15,Kenya
+422,Ashley Wrenn,1978-02-26,Greece
+423,Lottie Lattimer,1954-08-12,Norway
+424,Kay Blanks,1953-04-25,South Korea
+425,Kathy Ma,1971-08-05,Bangladesh
+426,Betty Aguilar,1991-10-19,Jordan
+427,James Lantz,1977-06-18,Australia
+428,Florence Anderson,1985-12-30,Pakistan
+429,Margery Bratt,1998-07-24,Italy
+430,Melinda Harden,1963-09-10,Greece
+431,Ronna Still,1951-11-04,Mexico
+432,Shannon Siu,2000-10-12,Iraq
+433,Eric Williams,1992-12-24,Kenya
+434,Talia Gilley,1974-04-12,Bahrain
+435,Natalie Spaulding,1996-08-06,Netherlands
+436,Tara Haynes,1976-05-24,Pakistan
+437,Carla Caraballo,1954-03-31,USA
+438,Frank Grubbs,1986-06-13,Brazil
+439,John Maxwell,1970-09-14,South Korea
+440,Susan Wertz,1956-11-30,USA
+441,Joshua Craig,1967-04-14,Mexico
+442,David Miller,1996-07-25,UK
+443,Rose Santiago,1992-09-01,Germany
+444,Joseph Martinez,1995-06-15,Greece
+445,Charles Jones,1985-05-08,Iran
+446,Henry Horton,1997-07-11,Finland
+447,Anthony Short,1972-12-29,South Korea
+448,Rebecca Martinez,1993-11-20,Israel
+449,Ignacio Bernier,1971-11-14,Saudi Arabia
+450,Kerry Heath,1983-05-05,Philippines
+451,Tara Marsh,1992-04-29,Jordan
+452,Jessica Davison,1966-07-13,USA
+453,Shirely Lumpkin,1963-08-08,Denmark
+454,Cathy Dickinson,1961-06-13,Norway
+455,Margaret Lugo,1989-01-21,Norway
+456,Kathy Carrigan,1959-08-30,Lebanon
+457,Denise Muniz,1999-05-26,Sri Lanka
+458,Phillip Glover,1951-01-02,Egypt
+459,Robert Harris,1990-05-07,China
+460,Patrick Ramsey,1969-12-17,Brazil
+461,Keith Holder,1958-02-15,Italy
+462,Lilly Chappell,1957-11-18,Oman
+463,Steven Malone,1994-08-19,Italy
+464,Sarah Hanrahan,1985-02-25,New Zealand
+465,Latanya Mcgarvey,1957-11-20,United Arab Emirates
+466,Maureen Johnson,1983-07-18,Japan
+467,Delores Juneau,1994-08-02,Iraq
+468,Debra Andrade,1975-06-07,Bahrain
+469,Kathleen Johnson,1958-05-17,USA
+470,Juan Gaskins,1978-09-25,USA
+471,Nola Guevara,1957-08-28,USA
+472,Janet Macchia,1996-05-19,Lebanon
+473,Patricia Hill,1981-04-09,Mexico
+474,Sally Shiner,1960-02-07,Indonesia
+475,Edna Meraz,1966-10-23,Bahrain
+476,Elizabeth Austin,1952-07-14,Vietnam
+477,Jerome Hayden,1989-12-23,Malaysia
+478,Yolanda Grulkey,2000-06-24,Portugal
+479,William Craft,1985-07-30,New Zealand
+480,Ignacio Eversmeyer,1997-11-06,Germany
+481,Troy Hammond,1954-03-19,Finland
+482,Catherine Kazin,1999-03-12,Bahrain
+483,Marjorie Johnson,1961-01-21,Oman
+484,Betsy Henig,1976-03-22,Denmark
+485,Helen Cumpston,1962-08-11,Vietnam
+486,Laura Stiner,1964-06-30,Philippines
+487,Maria Lester,1986-02-26,USA
+488,Esther Bailey,1994-12-28,Sweden
+489,Larry Weis,1990-12-18,United Arab Emirates
+490,Anthony Powers,1994-10-16,USA
+491,Mary Parks,1953-05-25,Oman
+492,Faye Larsen,1994-08-09,Iraq
+493,Lou Wilson,1962-01-08,Italy
+494,Chad Tucker,1956-01-02,Germany
+495,Christopher Berardino,1987-02-23,Singapore
+496,Cherie Meyer,1966-04-06,Portugal
+497,Lucretia Batten,1970-02-15,USA
+498,Caroline England,1954-09-14,China
+499,Stanton Chilcutt,1960-03-23,Pakistan
+500,Teresia Caporiccio,1984-02-15,France
